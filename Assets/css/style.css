@@ -1,3 +1,25 @@
-/* .container .navbar-brand {
-    background-color: blue;
+/* head container styles */
+.container {
+    background-color: limegreen;
+}
+
+/* Setting a color background to the brand on the nav bar */
+.container .navbar-brand {
+    background-color: lightskyblue;
+    padding: 5px;
+}
+
+/* placeholder header */
+hf {
+    color: White;
+
+}
+
+.img {
+    border: snow;
+    border: 10px
+}
+
+/* .jumbotron {
+    background-color: slateblue;
 } */
