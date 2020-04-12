@@ -16,9 +16,19 @@
     width: 50%;
 }
 
+.contact-form {
+    background: rgba(0, 0, 0, .6);
+    background-size: cover;
+}
+
+hr {
+    background: white;
+}
+
 .footer {
+    margin: auto;
     display: block;
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
     height: 50px;
