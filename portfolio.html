@@ -15,6 +15,7 @@
 
 <body>
     <header>
+        <!-- Header nav to help users go from page to page, also telling them which page theyre currently on -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Blake Thompson</a>
@@ -33,31 +34,53 @@
         </nav>
         </div>
     </header>
-    <div>
-        <h1 align="center">
-            Portfolio Page
-        </h1>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-8">
-                <div class="row">
-                    <div class="col-md-4">
-                        <!-- Card Goes here -->1
+    <main>
+        <!-- Used Grid Cards to give users a chance to check out my social profiles and past work -->
+        <div class="row row-cols-1 row-cols-md-2">
+            <div class="col-md-6">
+                <div class="card">
+                    <a href="http://www.facebook.com/BlakeAThompson" target="_blank"><img
+                            src="Assets\picsforportfolio\IMG_0037.JPG" class="card-img-top" alt="Man and his dog"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Facebook</h5>
+
                     </div>
-                    <div class="col-md-4">
-                        <!-- Card Goes here -->2
+                </div>
+            </div>
+            <div class="col mb-6">
+                <div class="card">
+                    <a href="https://instagram.com/blakeathompson" target="_blank"><img
+                            src="Assets\picsforportfolio\IMG_0038.JPG" class="card-img-top"
+                            alt="Dog looks like Yoda"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Instagram</h5>
                     </div>
-                    <div class="col-md-4">
-                        <!-- Card Goes Here -->3
+                </div>
+            </div>
+            <div class="col mb-6">
+                <div class="card">
+                    <a href="https://formallymajestic.tumblr.com" target="_blank"><img
+                            src="Assets\picsforportfolio\doggo.JPG" class="card-img-top" alt="dogp plays with ball"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Tumblr</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-6">
+                <div class="card">
+                    <a href="https://github.com/fleshborne/Code-Refactor" target="_blank"><img
+                            src="Assets\picsforportfolio\Skeletons.JPG" class="card-img-top" alt="Recent Project"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Recent work!</h5>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
+    </main>
+    <!-- sticky footer -->
     <footer class="footer">
-        <div class="container2">
+        <div class="container-fluid">
             <p align="center">Created By Blake Thompson</p>
         </div>
     </footer>

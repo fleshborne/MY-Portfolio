@@ -1,12 +1,13 @@
 /* head container styles */
 .container-fluid {
     background-color: goldenrod;
-    margin: auto;
+    margin: 10px;
 }
 
 .card {
     border: 10px solid;
     border-bottom: 10px solid;
+    margin: 10px;
 }
 
 .card-img-top {
@@ -19,10 +20,6 @@
 .contact-form {
     background: rgba(0, 0, 0, .6);
     background-size: cover;
-}
-
-hr {
-    background: white;
 }
 
 .footer {
