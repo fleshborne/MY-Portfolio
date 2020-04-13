@@ -13,6 +13,10 @@ Users will have working links to use, going from page to page through the nav ba
 Being able to check through my social media pages,
 Even recent work that i've completed.
 
+# Visuals
+![Front Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/GYfwoMg.png)
+![Portfolio Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/A4rNK1k.png)
+![Contact Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/I8zebVz.png)
 # Colaboration 
 Wouldnt have been possible without stackoverflow
 
