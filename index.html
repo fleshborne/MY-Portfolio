@@ -8,14 +8,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="Assets\css\style.css">
-
-
 </head>
 <!-- About Page for Responsive Portfolio -->
 
 <body>
     <header>
-    <!-- Header nav to help users go from page to page, also telling them which page theyre currently on -->
+        <!-- Header nav to help users go from page to page, also telling them which page theyre currently on -->
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
@@ -37,27 +35,105 @@
         </div>
     </header>
     <main>
+
         <!-- Single Card container for displaying short bio -->
         <div class="container">
-            <div class="row row-cols-1 row-cols-md-2">
+            <div class="col-sm-4">
+                <div class="col mb-2 mx-auto">
+                    <div class="card" style="width: auto; margin: auto;" id="infoCard">
+                        <img src="Assets\Images\IMG_0508.JPG" class="card-img-top" alt="Blake in front of the camera">
+                        <div class="card-body">
+                            Blake Thompson
+                            <br>
+                            UNH
+                            <br>
+                            Hampton Falls NH
+                            <br>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-sm-8" align='center'>
                 <div class="col mb-4 mx-auto">
-                    <div class="card">
-                        <img src="Assets\picsforportfolio\IMG_0035.JPG" class="card-img-top"
-                            alt="Blake in front of the camera">
+                    <div class="card" id="bioCard">
+                        <!-- <img src="Assets\Images\IMG_0508.JPG" class="card-img-top" alt="Blake in front of the camera"> -->
                         <div class="card-body">
                             <h5 class="card-title">Blake's Bio</h5>
-                            <p class="card-text">Hello everyone! Welcome to my website!
-                                Born in North Carolina, into a military family. I've seen soo many places in this world.
-                                Raised in South Florida, graduated from Broward College with my Associates Degree.
-                                Now Living in New Hampshire. Proud father to a big german sheppard, Binks is his name,
-                                JarJar Binks. (When you see the ears you'll understand)
-                                I enjoy gaming and working on the farm.
+                            <p class="card-text">
+                                <br>
+                                Graduated Broward College with an AA in 2017.
+                                Currently enrolled at UNH Coding Bootcamp for Full Stack Development
+                                <br>
+                                Experience:
+                                <table>
+                                    <li>
+                                        HTML5
+                                    </li>
+                                    <li>
+                                        JavaScript
+                                    </li>
+                                    <li>
+                                        CSS
+                                    </li>
+                                    <li>
+                                        jQuery
+                                    </li>
+                                    <li>
+                                        MySql
+                                    </li>
+                                    <li>
+                                        Sequelize
+                                    </li>
+                                    <li>
+                                        Express
+                                    </li>
+                                    <li>
+                                        React
+                                    </li>
+                                    <li>
+                                        Node JS
+                                    </li>
+                                    <li>
+                                        Heroku
+                                    </li>
+                                    <li>
+                                        Project Management
+                                    </li>
+                                    <li>
+                                        Bootstrap
+                                    </li>
+                                    <li>
+                                        AJAX Calling
+                                    </li>
+                                    <li>
+                                        Restful API
+                                    </li>
+                                    <li>
+                                        Jaws/Mongo DB
+                                    </li>
+                                    <li>
+                                        Handlebars
+                                    </li>
+                                    <li>
+                                        NoSql
+                                    </li>
+                                    <li>
+                                        Node JS
+                                    </li>
+                                </table>
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+
+
     </main>
-<!-- sticky footer -->
+    <!-- sticky footer -->
     <footer class="footerIndex">
         <div class="container">
             <p align="center">Created By Blake Thompson</p>

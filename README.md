@@ -22,6 +22,8 @@ Even recent work that i've completed.
 ![Portfolio Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/A4rNK1k.png)
 ![Contact Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/I8zebVz.png)
 
-# Colaboration
+# Collaborators
 
-Wouldnt have been possible without stackoverflow
+Blake Thompson
+
+
