@@ -10,6 +10,8 @@ User will be able to easily navigate through pages
 `portfolio.html`
 These pages were built with CSS Bootstrap, which I used to build a responsive layout.
 
+[Deployed](https://fleshborne.github.io/MY-Portfolio/)
+
 # Test
 
 Users will have working links to use, going from page to page through the nav bar
@@ -18,9 +20,8 @@ Even recent work that i've completed.
 
 # Visuals
 
-![Front Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/GYfwoMg.png)
-![Portfolio Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/A4rNK1k.png)
-![Contact Page Website](https://github.com/fleshborne/Responsive-Portfolio/blob/master/Assets/picsforreadme/I8zebVz.png)
+![Website Demo](https://gyazo.com/c673d4a7587b9675c7fc1c228196876c.gif)
+
 
 # Collaborators
 
